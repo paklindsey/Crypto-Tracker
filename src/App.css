@@ -34,6 +34,7 @@
   color: #272343;
   font-size: 6em;
   padding-top: 1em;
+  text-align: center;
 }
 
 .coin-text {
@@ -61,4 +62,10 @@
 
 .coin-input::placeholder {
   color: #e2e2e2;
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 4em;
+  }
 }
