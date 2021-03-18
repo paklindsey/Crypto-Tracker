@@ -1,8 +1,9 @@
 <p align='center'>
   <!-- <img src="https://i.imgur.com/hX0ZymL.png" width="80" height="80"/> -->
-  <img src="src/assets/CryptoCurrency.png" width="200"/>
+  <img src="src/assets/CryptoCurrency.png" width="400"/>
 </p>
- <h2 align='center' border-bottom='none'>Two Plus https://two-plus.web.app <h4 align='center'>A platform where developers get social.<h4></h2>
+ <h2 align='center' border-bottom='none'>Crypto Currency </h2>
+ <h2 align='center' border-bottom='none'>https://vibrant-feynman-c1f592.netlify.app<h4 align='center'>Stay up to date with your digital currencies<h4></h2>
 
 ## Motivation
 
