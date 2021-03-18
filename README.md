@@ -17,7 +17,8 @@ Crypto currencies are making a huge come back, so I wanted to create a mini proj
 
 ##### Screen Size: Mobile
 
-![User Homepage](src/assets/mobile.gif)
+<img src="src/assets/mobile.gif" width="200">
+<!-- ![User Homepage](src/assets/mobile.gif) -->
 
 <!-- ##### Live Post
 
