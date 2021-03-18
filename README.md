@@ -7,21 +7,21 @@
 
 ## Motivation
 
-We were inspired to make Two Plus because we know what it is like to ask for help and struggle to get a response. Joining Two Plus gives you access to an entire community of software engineers and developers who understand the same frustrations and are willing to help.
+Crypto currencies are making a huge come back, so I wanted to create a mini project that displays the current price of crypto currencies while focusing and creating a responsive layout.
 
-## Screenshots
+## The product
 
-##### Welcome Screen
+##### Screen Size: Web
 
-![Welcome Screen](https://thumbs.gfycat.com/PeriodicUnsightlyCondor-size_restricted.gif)
+![web screen](src/assets/web.gif)
 
-##### User Homepage
+##### Screen Size: Mobile
 
-![User Homepage](/src/assets/user-homepage.png)
+![User Homepage](src/assets/mobile.gif)
 
-##### Live Post
+<!-- ##### Live Post
 
-![Live Post](/src/assets/live-post2.png)
+![Live Post](/src/assets/live-post2.png) -->
 
 ## Tech/framework used
 
