@@ -17,7 +17,7 @@ Crypto currencies are making a huge come back, so I wanted to create a mini proj
 
 ##### Screen Size: Mobile
 
-<img src="src/assets/mobile.gif" width="200">
+<img src="src/assets/mobile.gif" width="300">
 <!-- ![User Homepage](src/assets/mobile.gif) -->
 
 <!-- ##### Live Post
@@ -28,10 +28,11 @@ Crypto currencies are making a huge come back, so I wanted to create a mini proj
 
 <b>Built with</b>
 
-- [Google's Firebase](https://firebase.google.com/)
-- [React Ace](https://github.com/securingsincity/react-ace#readme)
 - [React](https://reactjs.org/)
 - [Material UI](https://material-ui.com/)
+- JavaScript
+- HTML
+- CSS
 
 ## Features
 
