@@ -36,35 +36,14 @@ Crypto currencies are making a huge come back, so I wanted to create a mini proj
 
 ## Features
 
-**Live Code Editor & Chat**\
-A Live post contains a chat client and a code editor. The code editor is available to and editable by all users who are viewing that post. No matter who is typing, all users are able to view any changes made.
+**See a list of crypto currencies**\
+The list is sorted in order of highest value for the user.
 
-**++ Button**\
-If you come across a post to which you would also like to know the answer, or a post you find interesting, use the ++ button to show your support! You can view the most popular posts on your feed, and also see all posts you have ++'ed in your personal account.
-
-**Content Tagging**\
-When you create a post, you have the ability to label it with tags. You can also see all posts that have the same tags. On your homepage, you can quickly access a list of the most popular tags.
-
-**Followers & Following**\
-If you find a user who posts interesting content, you can follow them! Posts on the homepage will have a follow button. You also can view a user's profile, see all posts they have created, and follow them from there.
+**Search for a crypto currrency**\
+In case a user is unable to see the currency they were looking for, they can easily search for it
 
 ## Installation
 
-If you want to check out the app for yourself, please visit https://two-plus.web.app.
+If you want to check out the app for yourself, please visit https://vibrant-feynman-c1f592.netlify.app
 
-If you want to install the app locally, feel free to fork this repo. Once downloaded, run `npm install`. You will need to create Firebase project and copy all config variables into a .env.local file that will accessed by `src/firebase.js`.
-
-## How to use?
-
-![Video Walkthrough](https://youtu.be/rwAjSS4RlkE)
-
-## Credits
-
-We want to thank ![Fullstack Academy](https://github.com/FullstackAcademy) and the ![NYC Tech Talent Pipeline](https://www.techtalentpipeline.nyc/) for giving us the opportunity to learn the art of code and grow during such a tumultous time. Special thanks to ![Orlando Caraballo](https://github.com/orlandocaraballo) and ![Pawan Benjamin](https://github.com/pawanbenjamin) for helping us make Two Plus a reality.
-
-<p align='center'>
-  <img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.fullstackacademy.com%2Fimages%2Ffa-logo%402x.png&f=1&nofb=1' width='240' height='80'/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd140u095r09w96.cloudfront.net%2Fsites%2Fdefault%2Ffiles%2Fttp_logo_2.png&f=1&nofb=1'    
-       width='170' height='80'/>
-</p>
+If you want to install the app locally, feel free to fork this repo. Once downloaded, run `npm install`. Then `npm start`
