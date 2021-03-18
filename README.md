@@ -1,6 +1,6 @@
 <p align='center'>
   <!-- <img src="https://i.imgur.com/hX0ZymL.png" width="80" height="80"/> -->
-  <img src="src/assets/CryptoCurrency.png" width="80" height="80"/>
+  <img src="src/assets/CryptoCurrency.png" width="200"/>
 </p>
  <h2 align='center' border-bottom='none'>Two Plus https://two-plus.web.app <h4 align='center'>A platform where developers get social.<h4></h2>
 
