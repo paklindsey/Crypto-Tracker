@@ -29,7 +29,6 @@ Crypto currencies are making a huge come back, so I wanted to create a mini proj
 <b>Built with</b>
 
 - [React](https://reactjs.org/)
-- [Material UI](https://material-ui.com/)
 - JavaScript
 - HTML
 - CSS
